@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.gradle/caches/modules-2/files-2.1/com.github.davidmarquis/fluent-interface-proxy/1.3.0/519c459c771e2554437649a32b56e27a83ba66dc/fluent-interface-proxy-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="519c459c771e2554437649a32b56e27a83ba66dc">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/fluent-interface-proxy-1.3.0_24da37c7d463bee860fd4283d13f3965b4c06698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23d65816902eda9d0b11711b190820e1ca8adf92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-collections-3.2.2_44cd31d0324f11913abd35cac02b0fabf7089de3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.android/build-cache/8a6cc9dfa17d6f2dfaab96e9ae400f947f1f84fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2512151273aef9bc4f568928654ef61ed2235ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e129d5ed271d09926f816a18bec7f69ba03b4f9">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f99d1acd081d412822cefc65a70cb8e8c769580b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/android-studio/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_fdce6042c36c2a3f4b93daf8167562e8e898e2c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.3/c845703de334ddc6b4b3cd26835458cb1cba1f3d/commons-beanutils-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c845703de334ddc6b4b3cd26835458cb1cba1f3d">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-beanutils-1.9.3_62bcb564bf824ae0e943b28017bd6a08d84ae026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m7-assignment-buildings-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_39bb48f6d4d9e9f7671e72261432b7fefbeb33d9/classes.dex" />
+    </item>
+
+</items>
